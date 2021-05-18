@@ -1,0 +1,19 @@
+#logo{
+    width: 200px;
+    height: 100px;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon  {
+    background-size: 4rem;
+}
+
+.slide_img{
+    height: 50rem;
+    object-fit: contain;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
