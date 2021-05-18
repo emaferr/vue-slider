@@ -6,9 +6,9 @@ const app = new Vue (
             contatore: 0,
             immagini: [
                 './assets/img/marge.jpeg',
-                './assets/img/homer.jpeg',
-                './assets/img/homer.jpeg',
-                './assets/img/homer.jpeg'
+                './assets/img/bart.jpeg',
+                './assets/img/lisa.jpeg',
+                './assets/img/maggie.jpeg'
             ]
         },
     }
